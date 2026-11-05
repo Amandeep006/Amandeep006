@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_ACTUAL_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/amandeep-saini-5bb3842b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_ACTUAL_EMAIL_ADDRESS">
+  <a href="mailto:amandeepsaini951@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
