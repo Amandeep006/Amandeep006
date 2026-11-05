@@ -1,4 +1,4 @@
-```html
+html
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
@@ -225,5 +225,4 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
 
 </div>
-```
 
