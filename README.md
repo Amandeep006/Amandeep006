@@ -1,46 +1,40 @@
-<!-- =============== HEADER =============== -->
+```html
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amandeep%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Developer%20%7C%20Digital%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amandeep%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Developer%20%7C%20Digital%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 <h2>👋 Hey there! I'm Amandeep</h2>
 
-<h3>
-  🚀 Turning Data into Insights | Building Digital Experiences
-</h3>
+<h3>🚀 Turning Data into Insights | Building Digital Experiences</h3>
 
-<div align="center">
-
-<p>
-  <a href="https://amandeepportfol.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-00C9A7?style=for-the-badge" />
+<p align="center">
+  <a href="https://amandeepportfol.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/Amandeep006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Amandeep006">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/amandeep-saini-5bb3842b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amandeep-saini-5bb3842b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:amandeepsaini951@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Amandeep006&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Amandeep006&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" alt="Coding Animation" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights and building impactful digital solutions.
 
@@ -57,13 +51,13 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- ===================== SKILLS ===================== -->
 
 ## ⚡ Tech Stack & Skills
 
 ### 📊 Data Analytics & Business Intelligence
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -78,7 +72,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ### 💻 Web Development & Programming
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -92,7 +86,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ### 📢 Digital Marketing & SEO
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
@@ -105,7 +99,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ### 🛠️ Tools & Platforms
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -119,13 +113,13 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">📊 Retail Analytics Dashboard</h3>
 
@@ -142,7 +136,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">👥 Customer Behaviour Analysis</h3>
 
@@ -161,7 +155,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🎬 Netflix Data Analysis</h3>
 
@@ -177,7 +171,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🌐 Personal Portfolio Website</h3>
 
@@ -193,9 +187,7 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 - Contact Integration
 
 <p align="center">
-<a href="https://amandeepportfol.netlify.app/">
-Visit Portfolio ↗
-</a>
+<a href="https://amandeepportfol.netlify.app/"><b>Visit Live Portfolio ↗</b></a>
 </p>
 
 </td>
@@ -204,25 +196,34 @@ Visit Portfolio ↗
 
 ---
 
-<!-- =============== GITHUB ANALYTICS =============== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amandeep006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amandeep006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep006&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandeep006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Amandeep006&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Amandeep006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-### 💡 "Turning Data into Insights, and Ideas into Impact."
+<!-- ===================== FOOTER ===================== -->
 
-**Thanks for visiting my GitHub profile!**
+<div align="center">
+
+<h3>💡 "Turning Data into Insights, and Ideas into Impact."</h3>
+
+<p>⭐ Thanks for visiting my GitHub profile!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+</div>
+```
 
