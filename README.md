@@ -10,21 +10,25 @@
   🚀 Turning Data into Insights | Building Digital Experiences
 </h3>
 
+<div align="center">
+
 <p>
-  <a href="https://amandeepportfol.netlify.app/">
+  <a href="https://amandeepportfol.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-00C9A7?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Amandeep006">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" />
+
+  <a href="https://github.com/Amandeep006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="YOUR_ACTUAL_LINKEDIN_PROFILE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:YOUR_ACTUAL_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 <img src="https://komarev.com/ghpvc/?username=Amandeep006&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 
@@ -222,6 +226,3 @@ Visit Portfolio ↗
 
 **Thanks for visiting my GitHub profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
-
-</div>
