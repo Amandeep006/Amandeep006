@@ -220,16 +220,13 @@ Visit Portfolio ↗
 </div>
 
 ---
-
-## 📊 Contribution Graph
+## 📊 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandeep006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amandeep006&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=Amandeep's%20Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
-
----
 
 <!-- =============== CONNECT =============== -->
 
